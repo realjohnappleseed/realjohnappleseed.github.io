@@ -1,11 +1,11 @@
-# William Pourmajidi
+# John Appleseed
 
 Academic researcher in cloud computing, cloud governance, cloud-native applications, observability, and AI-driven platforms.
 
 ## Portfolio
 
-[View my academic portfolio](https://williampourmajidi.github.io/WilliamPourmajidi/)
+[View my academic portfolio](https://johnappleseed.github.io/JohnAppleseed/)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/william-pourmajidi/) | [GitHub](https://github.com/WilliamPourmajidi) | [X / Twitter](https://twitter.com/CloudSavant)
+[LinkedIn](https://www.linkedin.com/in/john-appleseed/) | [GitHub](https://github.com/JohnAppleseed) | [X / Twitter](https://twitter.com/JohnAppleseed)

@@ -354,7 +354,7 @@ h1 {
   font-weight: 800;
 }
 
-.highlight-item span, .contact-card a, .about-text p, .research-card p, .project-card p, .timeline-content p, .teaching-card p {
+.highlight-item span, .contact-card a, .contact-card span, .contact-form p, .about-text p, .research-card p, .project-card p, .timeline-content p, .teaching-card p {
   color: var(--ink-muted);
 }
 

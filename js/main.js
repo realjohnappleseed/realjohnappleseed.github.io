@@ -14,11 +14,11 @@ navLinks?.querySelectorAll("a").forEach((link) => {
 });
 
 const phrases = [
-  "cloud governance",
-  "cloud-native architecture",
-  "AI systems architecture",
-  "observability and reproducibility",
-  "governable cloud-native platforms"
+  "hardware engineering",
+  "product design",
+  "Apple device leadership",
+  "public product launches",
+  "executive succession"
 ];
 
 const typedText = document.querySelector("#typed-text");
@@ -149,7 +149,7 @@ document.querySelector("#contact-form")?.addEventListener("submit", (event) => {
   const name = form.get("name") || "";
   const email = form.get("email") || "";
   const message = form.get("message") || "";
-  const subject = encodeURIComponent("Portfolio inquiry");
+  const subject = encodeURIComponent("Biography inquiry");
   const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`);
 
   window.location.href = `mailto:?subject=${subject}&body=${body}`;
